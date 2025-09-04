@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagesh Makanapur</h1>
-<h3 align="center">"Aspiring Full Stack Developer & Machine Learning Enthusiast from India"</h3>
+<h3 align="center">"Aspiring MERN Stack Developer & Machine Learning Enthusiast from India"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htnagesh-makanapur&label=Profile%20views&color=0e75b6&style=flat" alt="htnagesh-makanapur" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate on **Full Stack projects**
+- 👯 I’m looking to collaborate on **MERN Stack projects**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **nagumakanapur@gmail.com**
 
