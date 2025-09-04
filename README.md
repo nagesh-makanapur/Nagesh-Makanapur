@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nagumakanapur@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mJG3NsdLL1j6pYSmGfMn27lpuwNoc_kX/view?usp=drivesdk](https://drive.google.com/file/d/1mJG3NsdLL1j6pYSmGfMn27lpuwNoc_kX/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mJG3NsdLL1j6pYSmGfMn27lpuwNoc_kX/view?usp=drivesdk](https://drive.google.com/file/d/1_EFhRCunf9VBBcjl7zX0R2J7VxF6Bbof/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
